@@ -62,14 +62,6 @@ Replace `your_environment_name` with the environment name defined within the `en
 
 ---
 
-## 🌟 Highlights
-
-* **Biological Plausibility**: Focuses on neural algorithms feasible in biological neural systems.
-* **Interdisciplinary Approach**: Bridges neuroscience, machine learning, and computational biology.
-* **Cutting-Edge Research**: Engages with contemporary research like the duality in SSL and emerging neuromorphic technologies.
-
----
-
 ## 📖 Resources & References
 
 * Course Website: [EPFL Learning in Neural Networks](https://edu.epfl.ch/coursebook/en/learning-in-neural-networks-CS-479)
